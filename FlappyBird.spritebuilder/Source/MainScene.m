@@ -167,6 +167,7 @@
             cloud.position = ccp(cloud.position.x +
                                  2 * cloud.contentSize.width, cloud.position.y);
         }
+    }
         
     // loop the ground
     for (CCNode *ground in _grounds) {
